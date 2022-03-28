@@ -1,4 +1,7 @@
-these
-are
-meme 
-projects
+do
+  not
+      let
+          your
+              memes
+                    be
+                       dreams
