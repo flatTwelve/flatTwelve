@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flatTwelve
 - 👀 I’m interested in ... cars & history
-- 🌱 I’m currently learning ... solidity actually thats a lie but blockchain is pretty neat
+- 🌱 I’m currently learning ... solidity, actually thats a lie but blockchain is pretty neat
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...whatever works for best for you
 
