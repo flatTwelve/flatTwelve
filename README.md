@@ -1,7 +1,3 @@
-do
-  not
-      let
-          your
-              memes
-                    be
-                       dreams
+become 
+un
+hireable
